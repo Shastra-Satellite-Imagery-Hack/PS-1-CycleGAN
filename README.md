@@ -1,4 +1,4 @@
-# 1] NEURAL STYLE TRANSFER
+# Problem Statement- 1] NEURAL STYLE TRANSFER
 
 ## SAR-to-RGB-CycleGAN
 
@@ -35,9 +35,9 @@ aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam 
 
 ### Final Approach
 
-[Notebook](./Notebooks/Final-Approach.ipynb)
+- [Notebook](./Notebooks/Final-Approach.ipynb)
 
-[Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
+- [Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
 
 #### Image prediction
 
