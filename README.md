@@ -54,7 +54,7 @@ aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam 
 - [Notebook](./Notebooks/Alternative-Approach.ipynb)
 
 #### Other resources on drive
-- [Model]()
+- [Model](https://drive.google.com/file/d/1-DwuJozH5IEV-D9i2EgbWrN-ORqZEH17/view?usp=sharing)
 
 ## Model and 5 images (as asked for results)
 
