@@ -33,25 +33,16 @@ aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam 
 ##  Notebook Links
 
 
-### Final Approach
+### Data Preprocessing and Model Training
 
 - [Notebook](./Notebooks/Final-Approach.ipynb)
 
 - [Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
 
-#### Image prediction
+#### Generating Optical Images with Trained Model
 
 - [Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
 
-#### Initial Analysis
-
-- [Colab](https://colab.research.google.com/drive/1WWUBCR1jre3hP1NDSKRpjaihsUIJJRAv?usp=sharing)
-
-- [Notebook](./Notebooks/Initial-Analysis.ipynb)
-
-#### Alternative Approach
-
-- [Notebook](./Notebooks/Alternative-Approach.ipynb)
 
 #### Other resources on drive
 - [Model](https://drive.google.com/file/d/1-DwuJozH5IEV-D9i2EgbWrN-ORqZEH17/view?usp=sharing)
