@@ -1,18 +1,18 @@
 # Problem Statement- 1] NEURAL STYLE TRANSFER
 
-## SAR-to-RGB-CycleGAN
+## SAR-to-RGB-CycleGAN 🎆
 
 This repository contains the implementation of a Cycle Generative Adversarial Network (CycleGAN) model for converting Synthetic Aperture Radar (SAR) satellite imagery to Photorealistic-RGB (PS-RGB) optical images.
 
 
-### Downloading the dataset:
+### Downloading the dataset: 💽
 #### Prerequisites:
 - AWS Account (create one if you dont have one)
 - Install awscli (Run this on bash/terminal depending on your OS)
 ```
 pip install awscli
 ```
-#### Procedure
+#### Procedure 🚲
 - Create a data folder, inside which,Cceate 2 new directories SAR-Intensity & PS-RGB(optical images)
 
 In SAR-Intensity folder execute:
@@ -26,11 +26,11 @@ aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam 
 
 
 
-## Presentation:
+## Presentation: 🎬
 [Link](https://pitch.com/public/07bf3b30-13b5-4e41-a50e-73ec3ee042ed)
 
 
-##  Notebook Links
+##  Notebook Links 📙
 
 
 ### Data Preprocessing and Model Training
@@ -44,10 +44,10 @@ aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam 
 - [Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
 
 
-#### Other resources on drive
+#### Other resources on drive 🚗
 - [Model](https://drive.google.com/file/d/1-DwuJozH5IEV-D9i2EgbWrN-ORqZEH17/view?usp=sharing)
 
-## Generated Samples (5 images as mentioned)
+## Generated Samples (5 images as mentioned) 📸
 
 <img src="./OutputImages/image1.png" >
 <img src="./OutputImages/image2.png" >
