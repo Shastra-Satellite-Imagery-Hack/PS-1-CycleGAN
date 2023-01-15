@@ -65,4 +65,4 @@ aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam 
 <img src="./OutputImages/image5.png" >
 
 ---
-Made with ❤️ and 💻
+<p align="center">Made with ❤️ and 💻</p>
