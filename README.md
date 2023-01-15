@@ -4,7 +4,7 @@
 
 This repository contains the implementation of a Cycle Generative Adversarial Network (CycleGAN) model for converting Synthetic Aperture Radar (SAR) satellite imagery to Photorealistic-RGB (PS-RGB) optical images.
 
-<<<<<<< HEAD
+
 ### Downloading the dataset:
 #### Prerequisites:
 - AWS Account (create one if you dont have one)
@@ -13,7 +13,7 @@ This repository contains the implementation of a Cycle Generative Adversarial Ne
 pip install awscli
 ```
 #### Procedure
-- Create a data floder, inside which,Cceate 2 new directories SAR-Intensity & PS-RGB(optical images)
+- Create a data folder, inside which,Cceate 2 new directories SAR-Intensity & PS-RGB(optical images)
 
 In SAR-Intensity folder execute:
 ```
@@ -23,37 +23,40 @@ In PS-RGB folder execute:
 ```
 aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam . --exclude "*" --include "PS-RGB/*"
 ```
-=======
----
->>>>>>> 83d704c881c6962ac2953f1a54adc17fcc8b80a3
+
+
 
 ## Presentation:
-[Link]()
+[Link](https://pitch.com/public/07bf3b30-13b5-4e41-a50e-73ec3ee042ed)
 
----
-<<<<<<< HEAD
+
 ##  Notebook Links
-=======
 
-## Colab Notebook Links
->>>>>>> 83d704c881c6962ac2953f1a54adc17fcc8b80a3
 
 ### Final Approach
-[Notebook](./Notebooks/Final-Approach.ipynb) 
-[Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
-- Image prediction
-[Notebook]
-[Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
-- Initial Analysis
-[Colab](https://colab.research.google.com/drive/1WWUBCR1jre3hP1NDSKRpjaihsUIJJRAv?usp=sharing)
-[Notebook](./Notebooks/Initial-Analysis.ipynb)
-- Alternative Approach
-[Notebook](./Notebooks/Alternative-Approach.ipynb)
 
-## Model and 5 images
+[Notebook](./Notebooks/Final-Approach.ipynb)
 
-(./OutputImages/image1.png)
-(./OutputImages/image2.png)
-(./OutputImages/image3.png)
-(./OutputImages/image4.png)
-(./OutputImages/image5.png)
+[Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
+
+#### Image prediction
+
+- [Colab](https://colab.research.google.com/drive/16uxCb3kWBFjbrDGN6iqIR9yl5wfi7JdD?usp=sharing)
+
+#### Initial Analysis
+
+- [Colab](https://colab.research.google.com/drive/1WWUBCR1jre3hP1NDSKRpjaihsUIJJRAv?usp=sharing)
+
+- [Notebook](./Notebooks/Initial-Analysis.ipynb)
+
+#### Alternative Approach
+
+- [Notebook](./Notebooks/Alternative-Approach.ipynb)
+
+## Model and 5 images (as asked for results)
+
+<img src="./OutputImages/image1.png" >
+<img src="./OutputImages/image2.png" >
+<img src="./OutputImages/image3.png" >
+<img src="./OutputImages/image4.png" >
+<img src="./OutputImages/image5.png" >
