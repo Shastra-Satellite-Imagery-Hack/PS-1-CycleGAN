@@ -47,7 +47,7 @@ aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam 
 #### Other resources on drive
 - [Model](https://drive.google.com/file/d/1-DwuJozH5IEV-D9i2EgbWrN-ORqZEH17/view?usp=sharing)
 
-## Generated Samples (5 images as asked for results)
+## Generated Samples (5 images as mentioned)
 
 <img src="./OutputImages/image1.png" >
 <img src="./OutputImages/image2.png" >
