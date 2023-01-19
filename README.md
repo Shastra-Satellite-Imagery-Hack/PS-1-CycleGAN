@@ -1,4 +1,4 @@
-# Problem Statement- 1] NEURAL STYLE TRANSFER
+# Team Pandas Submission for the Problem Statement 1 - Neural Style Transfer at Satellite Imagery Track Shaastra 2023 Indian Institute of Technology (IIT), Madras .
 
 ## SAR-to-RGB-CycleGAN 🎆
 
