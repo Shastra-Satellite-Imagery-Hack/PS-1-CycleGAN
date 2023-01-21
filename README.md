@@ -51,34 +51,26 @@ aws s3 sync s3://spacenet-dataset/spacenet/SN6_buildings/train/AOI_11_Rotterdam 
 
 <img src="./OutputImages/image1.png" >
 
-PSNR=60.79705779790465
 
-SSIM=0.2975623679184651
 
 <img src="./OutputImages/image2.png" >
 
-PSNR=59.3106434404258
 
-SSIM=0.4091230821243453
 
 <img src="./OutputImages/image3.png" >
 
-PSNR=60.309672567463785
 
-SSIM=0.2534892068709377
 
 <img src="./OutputImages/image4.png" >
 
-PSNR=60.243534936049066
 
-SSIM=0.34455954516037757
 
 <img src="./OutputImages/image5.png" >
 
-PSNR=60.17140657127909
 
-SSIM=0.34450681075849293
+<img src="./OutputImages/msedge_IFMOM950bn.png" >
 
+<img src="./OutputImages/msedge_lRU9sQxd4K.png" >
 
 ---
 <p align="center">Made with ❤️ and 💻</p>
